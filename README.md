@@ -6,7 +6,7 @@ This portfolio has all you can find about me! I believe having a solid resume is
 
 
 
-# Shoutout to "Kross By Themefisher" for this awesome bootstrap template! Check out their License
+Shoutout to "Kross By Themefisher" for this awesome bootstrap template! Check out their License
 <!-- licence -->
 ## License
 Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
